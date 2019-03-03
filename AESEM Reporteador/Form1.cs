@@ -16,6 +16,11 @@ namespace AESEM_Reporteador
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
         //final inesperado, marco muere cuando Jojos da todo su HAMON A la pizzas Cesar
     }
 }
