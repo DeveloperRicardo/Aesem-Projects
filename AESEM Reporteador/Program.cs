@@ -11,6 +11,7 @@ namespace AESEM_Reporteador
         /// <summary>
         /// Punto de entrada principal para la aplicación.
         /// </summary>
+        /// mamas sinai, star al final se hace lesbiana y se casa con el unicornio
         [STAThread]
         static void Main()
         {
