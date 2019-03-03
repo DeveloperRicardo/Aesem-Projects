@@ -11,13 +11,16 @@ namespace AESEM_Reporteador
         /// <summary>
         /// Punto de entrada principal para la aplicación.
         /// </summary>
-        /// mamas sinai, star al final se hace lesbiana y se casa con el unicornio
+     
         [STAThread]
         static void Main()
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+            // tu no existes
+            // salte de mi rama  pendejoooooooo
         }
+
     }
 }
